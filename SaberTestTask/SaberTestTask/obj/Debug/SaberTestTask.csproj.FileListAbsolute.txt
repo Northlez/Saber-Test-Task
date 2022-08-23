@@ -1,0 +1,7 @@
+C:\Учёба\С#\SaberTestTask\SaberTestTask\obj\Debug\SaberTestTask.csproj.AssemblyReference.cache
+C:\Учёба\С#\SaberTestTask\SaberTestTask\obj\Debug\SaberTestTask.csproj.CoreCompileInputs.cache
+C:\Учёба\С#\SaberTestTask\SaberTestTask\bin\Debug\SaberTestTask.exe.config
+C:\Учёба\С#\SaberTestTask\SaberTestTask\bin\Debug\SaberTestTask.exe
+C:\Учёба\С#\SaberTestTask\SaberTestTask\bin\Debug\SaberTestTask.pdb
+C:\Учёба\С#\SaberTestTask\SaberTestTask\obj\Debug\SaberTestTask.exe
+C:\Учёба\С#\SaberTestTask\SaberTestTask\obj\Debug\SaberTestTask.pdb
